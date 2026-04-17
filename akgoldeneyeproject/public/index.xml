@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AK Goldeneye Project</title>
+    <link>https://www.akgoldeneyeproject.org/</link>
+    <description>Recent content on AK Goldeneye Project</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Apr 2026 16:23:17 -0400</lastBuildDate>
+    <atom:link href="https://www.akgoldeneyeproject.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Blog!</title>
+      <link>https://www.akgoldeneyeproject.org/posts/mypost/</link>
+      <pubDate>Thu, 16 Apr 2026 16:23:17 -0400</pubDate>
+      <guid>https://www.akgoldeneyeproject.org/posts/mypost/</guid>
+      <description>&lt;p&gt;This is the blog for the AK Goldeneye Project 2026 field season. This research has been made possible through collaborative efforts between the University of California, Davis, U.S. Army Corps of Engineers, and community members of the greater Fairbanks, Alaska area.&lt;/p&gt;&#xA;&lt;p&gt;Stay tuned for upcoming posts!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
